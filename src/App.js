@@ -1,6 +1,12 @@
+import Frace from "./components/Frace";
+
 function App() {
   return (
-    <h1>Fraces aleatorias React</h1>
+    <div className="container">
+        <h1 className="title-frase">Fraces Breaking Bad</h1>
+        <Frace />
+        <button className="btn-frase">soy un Boton</button>
+    </div>
   );
 }
 
