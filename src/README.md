@@ -1,5 +1,5 @@
 # Muestra fraces aleatorias consumiendo una API 
 
-![Fraces aleastorias de una API](https://raw.githubusercontent.com/oscarrapray/fraces-aleatorias/master/img/frase.png)
+![Fraces aleastorias de una API](https://github.com/oscarrapray/fraces-aleatorias/blob/main/src/img/frase.png)
 
 Por: [Oscar Rapray](https://github.com/oscarrapray)
