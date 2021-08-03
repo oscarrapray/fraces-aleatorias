@@ -1,10 +1,11 @@
 import React from 'react'
 
-const Frace = () =>{
+const Frace = ({result}) =>{
+    const{quote,author} = result
     return(
         <div className="content-frase">
-            <h2>Soy una frace aleatoria</h2>
-            <p>Soy el Autor</p>
+            <h2>{quote}</h2>
+            <p>{author}</p>
         </div>
     )
 }
