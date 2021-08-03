@@ -20,7 +20,7 @@ useEffect(() =>{
         <Frace 
         result = {state}
         />
-        <button className="btn-frase" onClick={consultarApi}>soy un Boton</button>
+        <button className="btn-frase" onClick={consultarApi}>Obtener Frase</button>
     </div>
   );
 }
